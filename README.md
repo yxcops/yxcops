@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm yxcops
 
-<!--
-**yxcops/yxcops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI Skills and workflows for memory, content, and agent operations.
 
-Here are some ideas to get you started:
+## Songguo Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reusable AI Skills for Codex, Claude Code, Hermes, OpenClaw, and other agents.
+
+[Full collection](https://github.com/yxcops/songguo-skills)
+
+## Featured Skills
+
+### AI Memory & Collaboration
+
+[shared-memory-hub](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - Create and maintain a shared Obsidian or Markdown memory vault for multiple AI agents.
+
+### Content & Visuals
+
+[xiao-songshu-peitu](https://github.com/yxcops/songguo-skills/tree/main/xiao-songshu-peitu) - Design fixed squirrel-character illustration plans and prompts for Chinese articles, posts, and docs.
+
+### Codex Workflow
+
+[codex-skill-launchpad](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - Turn installed Codex Skills into visible entry folders and dedicated Codex chats.
+
+## Current Focus
+
+- Turning repeated AI workflows into reusable Skills
+- Building shared memory systems for long-running assistant work
+- Making Codex and other AI agents easier to use in real projects
+
+## Main Repository
+
+[songguo-skills](https://github.com/yxcops/songguo-skills) - Songguo AI Skills collection.
