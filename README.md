@@ -4,13 +4,21 @@
 
 我在做可复用的 AI Skills 和工作流，重点是记忆库、内容生产、智能体协作和 Codex 使用体验。
 
+---
+
 ## 🧩 松果 Skills
 
 给 Codex、Claude Code、Hermes、OpenClaw 等 AI Agent 使用的可复用 Skill 合集。
 
+它把我反复使用的 AI 工作流整理成可以安装、可以审阅、可以分享的 Skill，优先服务真实使用，而不是单纯堆数量。
+
 [📚 查看完整合集](https://github.com/yxcops/songguo-skills)
 
+---
+
 ## ⭐ 精选 Skill
+
+我最常用、也最适合直接分享的几个 Skill。
 
 ### 🧠 AI 记忆与协作
 
@@ -24,11 +32,15 @@
 
 [**🚀 codex-skill-launchpad**](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - 把已经安装的 Codex Skills 做成可见、可点击、可复用的入口文件夹和专属对话。
 
+---
+
 ## 🎯 当前关注
 
 - 把重复 AI 工作流沉淀成可复用 Skill
 - 建立适合长期项目的共享记忆系统
 - 让 Codex 和其他 AI Agent 更容易进入真实工作流
+
+---
 
 ## 📦 主要仓库
 
