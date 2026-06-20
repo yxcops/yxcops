@@ -1,33 +1,35 @@
-# Hi, I'm yxcops
+# 你好，我是 yxcops
 
-I build practical AI Skills and workflows for memory, content, and agent operations.
+[English](./README.en.md) | 中文
 
-## Songguo Skills
+我在做可复用的 AI Skills 和工作流，重点是记忆库、内容生产、智能体协作和 Codex 使用体验。
 
-Reusable AI Skills for Codex, Claude Code, Hermes, OpenClaw, and other agents.
+## 松果 Skills
 
-[Full collection](https://github.com/yxcops/songguo-skills)
+给 Codex、Claude Code、Hermes、OpenClaw 等 AI Agent 使用的可复用 Skill 合集。
 
-## Featured Skills
+[查看完整合集](https://github.com/yxcops/songguo-skills)
 
-### AI Memory & Collaboration
+## 精选 Skill
 
-[shared-memory-hub](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - Create and maintain a shared Obsidian or Markdown memory vault for multiple AI agents.
+### AI 记忆与协作
 
-### Content & Visuals
+[shared-memory-hub](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - 给多个 AI Agent 共用一套 Obsidian 或本地 Markdown 共享记忆库。
 
-[xiao-songshu-peitu](https://github.com/yxcops/songguo-skills/tree/main/xiao-songshu-peitu) - Design fixed squirrel-character illustration plans and prompts for Chinese articles, posts, and docs.
+### 中文内容与配图
 
-### Codex Workflow
+[xiao-songshu-peitu](https://github.com/yxcops/songguo-skills/tree/main/xiao-songshu-peitu) - 用固定小松鼠 IP 为中文文章、帖子、公众号、小红书和工作流文档生成配图方案和提示词。
 
-[codex-skill-launchpad](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - Turn installed Codex Skills into visible entry folders and dedicated Codex chats.
+### Codex 工作流
 
-## Current Focus
+[codex-skill-launchpad](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - 把已经安装的 Codex Skills 做成可见、可点击、可复用的入口文件夹和专属对话。
 
-- Turning repeated AI workflows into reusable Skills
-- Building shared memory systems for long-running assistant work
-- Making Codex and other AI agents easier to use in real projects
+## 当前关注
 
-## Main Repository
+- 把重复 AI 工作流沉淀成可复用 Skill
+- 建立适合长期项目的共享记忆系统
+- 让 Codex 和其他 AI Agent 更容易进入真实工作流
 
-[songguo-skills](https://github.com/yxcops/songguo-skills) - Songguo AI Skills collection.
+## 主要仓库
+
+[songguo-skills](https://github.com/yxcops/songguo-skills) - 松果 AI Skills 合集。
