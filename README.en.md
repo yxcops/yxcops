@@ -24,6 +24,10 @@ The Skills I use most and consider easiest to share directly.
 
 [**🧠 shared-memory-hub**](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - Create and maintain a shared Obsidian or Markdown memory vault for multiple AI agents.
 
+### 📚 Reading & Learning
+
+[**📚 daily-reading**](https://github.com/yxcops/songguo-skills/tree/main/daily-reading) - Enter reading mode, keep useful reading notes, maintain a reading profile, and generate a personalized weekly book list.
+
 ### 🎨 Content & Visuals
 
 [**🐿️ xiao-songshu-peitu**](https://github.com/yxcops/songguo-skills/tree/main/xiao-songshu-peitu) - Design fixed squirrel-character illustration plans and prompts for Chinese articles, posts, WeChat articles, Xiaohongshu notes, and workflow docs.
