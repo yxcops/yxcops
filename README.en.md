@@ -14,11 +14,24 @@ It turns AI workflows I use repeatedly into installable, reviewable, and shareab
 
 [📚 Full collection](https://github.com/yxcops/songguo-skills)
 
+Publishing rules:
+
+- Start from a real recurring problem before publishing a Skill.
+- Explain what the Skill is for and what it is not for.
+- Do not publish private paths, accounts, tokens, cookies, real diaries, or raw chats.
+- If a Skill includes scripts, verify the representative flow in a temporary folder.
+
 ---
 
 ## ⭐ Featured Skills
 
 The Skills I use most and consider easiest to share directly.
+
+### 📝 Notes & Journaling
+
+**Obsidian Diary**
+
+[obsidian-diary](https://github.com/yxcops/songguo-skills/tree/main/obsidian-diary) - Help AI agents write Obsidian diaries reliably: today's entries go to today, historical dates require explicit backfill, with format checks and export support.
 
 ### 🧠 AI Memory & Collaboration
 

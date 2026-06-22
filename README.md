@@ -14,11 +14,24 @@
 
 [📚 查看完整合集](https://github.com/yxcops/songguo-skills)
 
+公开 Skill 的基本规则：
+
+- 先解决真实重复问题，再考虑公开。
+- 说明适合什么、不适合什么，避免误触发。
+- 不公开私人路径、账号、Token、Cookie、真实日记或原始聊天。
+- 带脚本的 Skill 要能用临时目录跑通代表流程。
+
 ---
 
 ## ⭐ 精选 Skill
 
 我最常用、也最适合直接分享的几个 Skill。
+
+### 📝 记录与日记
+
+**Obsidian 日记本**
+
+[obsidian-diary](https://github.com/yxcops/songguo-skills/tree/main/obsidian-diary) - 帮 AI Agent 稳定写入 Obsidian 日记：今天记录写今天，明确补写才写历史日期，并支持检查和导出。
 
 ### 🧠 记忆与协作
 
