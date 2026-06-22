@@ -27,23 +27,21 @@
 
 我最常用、也最适合直接分享的几个 Skill。
 
-### 📝 记录与日记
+### 📚 记录与学习
 
 **Obsidian 日记本**
 
 [obsidian-diary](https://github.com/yxcops/songguo-skills/tree/main/obsidian-diary) - 帮 AI Agent 稳定写入 Obsidian 日记：今天记录写今天，明确补写才写历史日期，并支持检查和导出。
+
+**每日读书**
+
+[daily-reading](https://github.com/yxcops/songguo-skills/tree/main/daily-reading) - 进入读书模式，沉淀读书笔记、维护阅读画像，并按周生成个性化推荐书单。
 
 ### 🧠 记忆与协作
 
 **共享记忆库**
 
 [shared-memory-hub](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - 给多个 AI Agent 共用一套 Obsidian 或本地 Markdown 共享记忆库。
-
-### 📚 阅读与学习
-
-**每日读书**
-
-[daily-reading](https://github.com/yxcops/songguo-skills/tree/main/daily-reading) - 进入读书模式，沉淀读书笔记、维护阅读画像，并按周生成个性化推荐书单。
 
 ### 🎨 内容与配图
 

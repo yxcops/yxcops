@@ -27,23 +27,21 @@ Publishing rules:
 
 The Skills I use most and consider easiest to share directly.
 
-### 📝 Notes & Journaling
+### 📚 Notes & Learning
 
 **Obsidian Diary**
 
 [obsidian-diary](https://github.com/yxcops/songguo-skills/tree/main/obsidian-diary) - Help AI agents write Obsidian diaries reliably: today's entries go to today, historical dates require explicit backfill, with format checks and export support.
+
+**Daily Reading**
+
+[daily-reading](https://github.com/yxcops/songguo-skills/tree/main/daily-reading) - Enter reading mode, keep useful reading notes, maintain a reading profile, and generate a personalized weekly book list.
 
 ### 🧠 AI Memory & Collaboration
 
 **Shared Memory Hub**
 
 [shared-memory-hub](https://github.com/yxcops/songguo-skills/tree/main/shared-memory-hub) - Create and maintain a shared Obsidian or Markdown memory vault for multiple AI agents.
-
-### 📚 Reading & Learning
-
-**Daily Reading**
-
-[daily-reading](https://github.com/yxcops/songguo-skills/tree/main/daily-reading) - Enter reading mode, keep useful reading notes, maintain a reading profile, and generate a personalized weekly book list.
 
 ### 🎨 Content & Visuals
 
