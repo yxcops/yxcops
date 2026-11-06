@@ -55,6 +55,10 @@
 
 [codex-skill-launchpad](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - 把已经安装的 Codex Skills 做成可见、可点击、可复用的入口文件夹和专属对话。
 
+**自有域名网站发布**
+
+[cloudflare-site-deploy](https://github.com/yxcops/cloudflare-site-deploy) - 把现有网站发布到自己的域名，优先使用 Cloudflare 免费额度，涵盖域名解析、HTTPS、上线验收和回退。
+
 ---
 
 ## 🎯 当前关注

@@ -55,6 +55,10 @@ The Skills I use most and consider easiest to share directly.
 
 [codex-skill-launchpad](https://github.com/yxcops/songguo-skills/tree/main/codex-skill-launchpad) - Turn installed Codex Skills into visible entry folders and dedicated Codex chats.
 
+**Custom Domain Site Deploy**
+
+[cloudflare-site-deploy](https://github.com/yxcops/cloudflare-site-deploy) - Deploy an existing website to a custom domain on Cloudflare, prioritizing the free tier. Covers DNS, HTTPS, live checks, and rollback.
+
 ---
 
 ## 🎯 Current Focus
